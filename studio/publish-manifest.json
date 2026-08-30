@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-08-30T00:44:50+00:00",
+  "scope": "full",
+  "device": {
+    "generated_at": "2026-08-30T00:44:51+00:00",
+    "board": "ESP32-S3-DevKitC-1 N16R8",
+    "board_id": "esp32-s3-devkitc1-n16r8",
+    "chip": "esp32s3",
+    "device_id": "1cdbd4766a00",
+    "memory_profile": {
+      "psram_mb": 8,
+      "flash_mb": 16,
+      "psram_mode": "octal"
+    }
+  },
+  "skipped": [
+    {
+      "path": "host/app.py.20260830_031523.bak",
+      "reason": "credential/local-state artifact"
+    },
+    {
+      "path": "host/serial_tools.py.20260830_031523.bak",
+      "reason": "credential/local-state artifact"
+    },
+    {
+      "path": "/config.json",
+      "reason": "device secret/binary policy"
+    }
+  ],
+  "security_note": "Secret Scrubber runs before cloud publication. Dependencies/VCS metadata, local databases/logs and credential files are excluded; built frontend and firmware binaries are included when present."
+}
