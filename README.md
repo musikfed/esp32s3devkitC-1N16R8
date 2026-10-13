@@ -8,3 +8,9 @@ Cross-platform Windows/Linux React + FastAPI + MicroPython Studio for ESP32-C3/S
 - [Patch guide EN](docs/PATCHING_EN.md)
 
 2.5.0 preserves the working 2.3.2 network stack, adds Linux setup/start/repair/diagnostics, Linux Secret Service token storage, safer port-conflict handling, binary/full-project Git publication, and bilingual code-comment conventions.
+
+## Contact / Контакты
+
+- Email: [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru)
+- Telegram: [@Feudorlab1](https://t.me/Feudorlab1)
+
