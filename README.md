@@ -21,3 +21,8 @@ Cross-platform Windows/Linux React + FastAPI + MicroPython Studio for ESP32-C3/S
 ## Screenshots / Скриншоты
 
 ![ESP32 MultiBoard Studio](Studio%20esp32_2.jpg)
+
+
+![Studio documentation preview](docs/screenshots/studio-preview.svg)
+
+> Generated documentation preview, not a live screenshot. / Сгенерированное превью документации, не снимок работающей сессии.
