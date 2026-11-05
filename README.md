@@ -32,4 +32,3 @@ Cross-platform Windows/Linux React + FastAPI + MicroPython Studio for ESP32-C3/S
 
 [**Visual project presentation and contacts**](docs/showcase/README.md)
 
-![esp32s3devkitC-1N16R8 project flow](docs/showcase/overview.svg)
