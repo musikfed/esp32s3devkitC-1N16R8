@@ -26,3 +26,10 @@ Cross-platform Windows/Linux React + FastAPI + MicroPython Studio for ESP32-C3/S
 ![Studio documentation preview](docs/screenshots/studio-preview.svg)
 
 > Generated documentation preview, not a live screenshot. / Сгенерированное превью документации, не снимок работающей сессии.
+
+
+## Project showcase · 11 языков
+
+[**Visual project presentation and contacts**](docs/showcase/README.md)
+
+![esp32s3devkitC-1N16R8 project flow](docs/showcase/overview.svg)
