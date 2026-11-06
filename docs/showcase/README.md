@@ -42,7 +42,6 @@ Strumenti di sviluppo ESP32. **esp32s3devkitC-1N16R8**: ESP32-C3 / S3 → MicroP
 ## Contacts · Контакты
 
 - Telegram: [@Feudorlab1](https://t.me/Feudorlab1)
-- Phone: [+7 926 041 1145](tel:+79260411145)
 - E-mails: [feudor.lab@yandex.ru](mailto:feudor.lab@yandex.ru) · [obzorniky@gmail.com](mailto:obzorniky@gmail.com)
 - [peginelab.ru](https://peginelab.ru/) · [GitHub project](https://github.com/musikfed/esp32s3devkitC-1N16R8)
 
