@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0",
+  "id": "esp32s3devkitC-1N16R8",
+  "title": "esp32s3devkitC-1N16R8",
+  "version": "2.5.0",
+  "description": "ESP32 project published by MultiBoard Studio",
+  "subtitle": null,
+  "tags": [
+    "Python"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "interface",
+  "status": "Черновик — ожидает проверки",
+  "repo_url": "https://github.com/musikfed/esp32s3devkitC-1N16R8",
+  "screenshots": [
+    "https://raw.githubusercontent.com/musikfed/esp32s3devkitC-1N16R8/main/docs/screenshots/studio-preview.svg",
+    "https://raw.githubusercontent.com/musikfed/esp32s3devkitC-1N16R8/main/docs/showcase/overview.svg"
+  ],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot"
+}
