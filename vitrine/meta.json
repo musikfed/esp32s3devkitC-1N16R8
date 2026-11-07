@@ -21,11 +21,10 @@
   "status": "Рабочая инженерная студия · версия 2.5.0",
   "repo_url": "https://github.com/musikfed/esp32s3devkitC-1N16R8",
   "screenshots": [
-    "vitrine/screenshots/main.jpg",
-    "vitrine/screenshots/gpio-and-versions.jpg"
+    "vitrine/screenshots/main.jpg"
   ],
   "cover": "vitrine/generated/cover.svg",
   "cover_type": "schematic-not-screenshot",
-  "screenshot_source": "original-author-screenshots",
+  "screenshot_source": "original-repository-file",
   "screenshot_origin": "Studio esp32_2.jpg"
 }
