@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "id": "esp32s3devkitC-1N16R8",
+  "title": "ESP32 MultiBoard Studio",
+  "version": "2.5.0",
+  "description": "Инженерная студия Windows/Linux для прошивки, программирования и тестирования отладочных плат ESP32-C3/S3: настройка GPIO, USB и Wi-Fi, работа с MicroPython, просмотр логов и версий, резервные снимки исходников и публикация проектов в GitHub/GitLab. React + FastAPI. Это инструмент разработки электроники, НЕ система умного дома.",
+  "subtitle": "Прошивка, тестирование и диагностика микроконтроллеров ESP32",
+  "tags": [
+    "ESP32-C3/S3",
+    "Firmware",
+    "GPIO",
+    "MicroPython",
+    "FastAPI",
+    "React",
+    "Hardware Testing"
+  ],
+  "visibility": "public",
+  "publication": "publish_on_merge",
+  "public_private_approved": false,
+  "display_mode": "interface",
+  "status": "Рабочая инженерная студия · версия 2.5.0",
+  "repo_url": "https://github.com/musikfed/esp32s3devkitC-1N16R8",
+  "screenshots": [
+    "vitrine/screenshots/main.jpg"
+  ],
+  "cover": "vitrine/generated/cover.svg",
+  "cover_type": "schematic-not-screenshot",
+  "screenshot_source": "original-repository-file",
+  "screenshot_origin": "Studio esp32_2.jpg"
+}
