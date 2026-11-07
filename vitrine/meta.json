@@ -1,23 +1,28 @@
 {
   "schema_version": "1.0",
   "id": "esp32s3devkitC-1N16R8",
-  "title": "esp32s3devkitC-1N16R8",
+  "title": "ESP32 MultiBoard Studio",
   "version": "2.5.0",
-  "description": "ESP32 project published by MultiBoard Studio",
-  "subtitle": null,
+  "description": "ESP32 MultiBoard Studio 2.5.0 — кроссплатформенная среда Windows/Linux для программирования и диагностики ESP32-C3/S3. React, FastAPI и MicroPython; сетевой стек, подключение устройств, диагностика и публикация проектов.",
+  "subtitle": "Кроссплатформенная студия для ESP32-C3 и ESP32-S3",
   "tags": [
+    "ESP32",
+    "React",
+    "FastAPI",
+    "MicroPython",
     "Python"
   ],
   "visibility": "public",
   "publication": "publish_on_merge",
   "public_private_approved": false,
   "display_mode": "interface",
-  "status": "Черновик — ожидает проверки",
+  "status": "Активная разработка",
   "repo_url": "https://github.com/musikfed/esp32s3devkitC-1N16R8",
   "screenshots": [
-    "https://raw.githubusercontent.com/musikfed/esp32s3devkitC-1N16R8/main/docs/screenshots/studio-preview.svg",
-    "https://raw.githubusercontent.com/musikfed/esp32s3devkitC-1N16R8/main/docs/showcase/overview.svg"
+    "vitrine/screenshots/main.jpg"
   ],
   "cover": "vitrine/generated/cover.svg",
-  "cover_type": "schematic-not-screenshot"
+  "cover_type": "schematic-not-screenshot",
+  "screenshot_source": "original-repository-file",
+  "screenshot_origin": "Studio esp32_2.jpg"
 }
